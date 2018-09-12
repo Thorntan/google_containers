@@ -1,0 +1,3 @@
+FROM gcr.io/google-containers/kube-apiserver-amd64:v1.8.14
+MAINTAINER antherdaylee@126.com
+
