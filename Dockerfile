@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-scheduler-amd64:v1.8.6
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.22.0
 MAINTAINER antherdaylee@126.com
